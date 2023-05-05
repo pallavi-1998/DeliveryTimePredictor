@@ -5,4 +5,5 @@ seaborn
 matplotlib
 ipykernel
 scikit-learn
+geopy
 -e .
